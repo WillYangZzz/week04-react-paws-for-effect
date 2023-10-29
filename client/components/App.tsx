@@ -13,11 +13,14 @@ function App() {
       <Subtitle text="Canines using super-canine abilities for social good." />
       <>
         <Dog name="Desdemona" breed="Bulldog" superpower="Heat vision" />
-        <img src="/images/bulldog.png" alt="A bulldog" />
+        {/* <img src="/images/bulldog.png" alt="A bulldog" /> */}
       </>
-      <Dog name="Des" breed="Bulldog" superpower="Heat vision" />
-      <Dog name="demona" breed="Bulldog" superpower="Heat vision" />
-      <Dog name="Des" breed="Bulldog" superpower="Heat vision" />
+      <Dog name="Des" breed="Bull-terrier" superpower="Heat vision" />
+      <Dog name="demona" breed="Dachshund" superpower="Heat vision" />
+      <Dog name="Des" breed="Bull-Terrier" superpower="Heat vision" />
+      <Dog name="Des" breed="Hound" superpower="Heat vision" />
+      <Dog name="Des" breed="hound" superpower="Heat vision" />
+      <Dog name="Des" breed="Scottie" superpower="Heat vision" />
     </div>
   )
 }
